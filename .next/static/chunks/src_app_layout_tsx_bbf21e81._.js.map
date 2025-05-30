@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///project/sandbox/user-workspace/src/app/layout.tsx"],"sourcesContent":["\"use client\";\n\nimport React from \"react\";\nimport \"../app/globals.css\";\n\nexport default function RootLayout({\n  children,\n}: {\n  children: React.ReactNode;\n}) {\n  return (\n    <html lang=\"en\">\n      <head>\n        <title>Linear - Plan and build products</title>\n        <meta name=\"description\" content=\"Linear product landing page clone\" />\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n      </head>\n      <body>{children}</body>\n    </html>\n  );\n}\n"],"names":[],"mappings":";;;;AAAA;;;AAKe,SAAS,WAAW,EACjC,QAAQ,EAGT;IACC,qBACE,6LAAC;QAAK,MAAK;;0BACT,6LAAC;;kCACC,6LAAC;kCAAM;;;;;;kCACP,6LAAC;wBAAK,MAAK;wBAAc,SAAQ;;;;;;kCACjC,6LAAC;wBAAK,MAAK;wBAAW,SAAQ;;;;;;;;;;;;0BAEhC,6LAAC;0BAAM;;;;;;;;;;;;AAGb;KAfwB","debugId":null}}]
+}
